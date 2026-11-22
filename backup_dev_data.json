@@ -1,0 +1,319 @@
+{
+  "timestamp": "2026-11-17T13:40:52.721Z",
+  "projectUrl": "https://tzgepqlwqkaobngszngy.supabase.co",
+  "businesses": [
+    {
+      "id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "name": "Neel Hair",
+      "tagline": "Hair • Style • Grooming",
+      "category": "Hair Salon / Barber Shop",
+      "contact_number": "+91 87674 70988",
+      "address": "Ozar, Nashik, Maharashtra",
+      "google_review_link": "https://g.page/r/CYourSalonGoogleReview",
+      "show_google_review_btn": true,
+      "show_feedback_form": true,
+      "qr_destination_url": "https://reviewtap.in/neel-hair",
+      "qr_style": "classic",
+      "center_logo_url": "",
+      "created_at": "2026-11-15T13:56:31.48328+00:00"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "ef43873f-2f49-4ef7-aa40-4a510b6a50f1",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "customer_name": "Sanket More",
+      "rating": 4,
+      "service": "Beard Trim",
+      "feedback_text": "Clean and hygienic salon. Will visit again.",
+      "phone": "+91 98221 23456",
+      "status": "pending",
+      "customer_avatar": "S",
+      "created_at": "2026-11-15T13:56:31.48328+00:00"
+    },
+    {
+      "id": "ecd9100c-6ee7-4bd0-834c-a9daf64020bc",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "customer_name": "Pratik Desai",
+      "rating": 5,
+      "service": "Haircut",
+      "feedback_text": "Amazing experience. Styling was perfect!",
+      "phone": "+91 98222 34567",
+      "status": "resolved",
+      "customer_avatar": "P",
+      "created_at": "2026-11-15T13:56:31.48328+00:00"
+    },
+    {
+      "id": "70ad3f95-4861-406d-a376-723a35c41711",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "customer_name": "Amit Jadhav",
+      "rating": 4,
+      "service": "Hair Styling",
+      "feedback_text": "Good haircut, neat and clean place.",
+      "phone": "+91 98223 45678",
+      "status": "resolved",
+      "customer_avatar": "A",
+      "created_at": "2026-11-15T13:56:31.48328+00:00"
+    },
+    {
+      "id": "af31d6dd-eb33-4893-b98a-898ccb069f46",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "customer_name": "Kunal Pawar",
+      "rating": 5,
+      "service": "Beard Trim",
+      "feedback_text": "Excellent service and friendly staff!",
+      "phone": "+91 98224 56789",
+      "status": "resolved",
+      "customer_avatar": "K",
+      "created_at": "2026-11-15T13:56:31.48328+00:00"
+    },
+    {
+      "id": "5a083e39-d6bb-48a7-b578-24372b21a7f2",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "customer_name": "roahn patil",
+      "rating": 4,
+      "service": "Haircut",
+      "feedback_text": "sjxksdkshbdkqbdjdbbjbdjdjl",
+      "phone": "",
+      "status": "resolved",
+      "customer_avatar": "R",
+      "created_at": "2026-11-15T13:59:26.606063+00:00"
+    },
+    {
+      "id": "ca05a78b-ed50-4dc5-b7e2-8b99b7662471",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "customer_name": "Rohan Patil",
+      "rating": 5,
+      "service": "Haircut",
+      "feedback_text": "Great service and professional staff. Very satisfied!",
+      "phone": "+91 98220 12345",
+      "status": "resolved",
+      "customer_avatar": "R",
+      "created_at": "2026-11-15T13:56:31.48328+00:00"
+    }
+  ],
+  "analytics_events": [
+    {
+      "id": "5970c3a0-f891-419b-a9d8-62007ecf988e",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T13:57:29.90761+00:00"
+    },
+    {
+      "id": "98083365-73ac-424d-958e-489e26991dd9",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T13:57:29.907519+00:00"
+    },
+    {
+      "id": "67017f4c-2d81-4014-87ba-0da30efa9dcb",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T13:59:06.247325+00:00"
+    },
+    {
+      "id": "d814d1e8-ba87-45b6-a0e4-b864a7d09b00",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T13:59:06.252515+00:00"
+    },
+    {
+      "id": "73136820-3686-4fcc-bcba-80586f0717e8",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "google_click",
+      "created_at": "2026-11-15T13:59:09.008219+00:00"
+    },
+    {
+      "id": "d97494b0-d3ce-46fb-8932-2260927010ef",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "feedback_submitted",
+      "created_at": "2026-11-15T13:59:27.114506+00:00"
+    },
+    {
+      "id": "0b03e187-b82e-44b4-8d03-88e7f4d5ba65",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:00:33.598838+00:00"
+    },
+    {
+      "id": "66e75e40-1e12-41dc-b3e8-b5bc7026a7f4",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:00:33.603209+00:00"
+    },
+    {
+      "id": "ff80a049-65e7-4b03-b4e4-9284cb86ee08",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:00:46.841827+00:00"
+    },
+    {
+      "id": "bdbb9dc8-7404-4b42-8d77-b7155302e666",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:00:46.852606+00:00"
+    },
+    {
+      "id": "0d612686-f3bc-4b53-86d6-f6184791461e",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:16:33.732496+00:00"
+    },
+    {
+      "id": "816762ab-c985-4733-9d03-736a6dff1684",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:16:33.732549+00:00"
+    },
+    {
+      "id": "5341ae8c-d115-4797-b560-2b2ac80e4564",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:41:25.883285+00:00"
+    },
+    {
+      "id": "9eb28e70-086b-46a8-9806-b491a51aa5cc",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:41:25.88299+00:00"
+    },
+    {
+      "id": "7b3c4023-7e16-4432-b054-ad6a731af3fe",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:52:23.787326+00:00"
+    },
+    {
+      "id": "bbe5498b-5e13-4223-8504-8bb88cbcb245",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:52:23.787405+00:00"
+    },
+    {
+      "id": "8120c3b2-31e7-464e-84f4-f002707d591f",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:53:02.529094+00:00"
+    },
+    {
+      "id": "c4a21032-9094-46c7-8197-c0c1a2e3c5e6",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:59:42.16992+00:00"
+    },
+    {
+      "id": "c911d94c-68fe-4cd4-90fb-9742be6738b2",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T14:59:42.170558+00:00"
+    },
+    {
+      "id": "f0766c6a-18e5-4030-a207-3a838235cb99",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T15:00:19.290452+00:00"
+    },
+    {
+      "id": "f1471c07-8b1a-4e18-b310-d55af7098533",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T15:00:19.327588+00:00"
+    },
+    {
+      "id": "ce55d933-a9b0-4c8d-9f0d-7e91f6cfb50d",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T15:08:47.68044+00:00"
+    },
+    {
+      "id": "e576d177-2fdb-4d24-8813-9c1fa99d2936",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-15T15:08:47.69923+00:00"
+    },
+    {
+      "id": "73969aa3-db99-43e8-b83b-64a6b3e8727f",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-16T13:32:15.738405+00:00"
+    },
+    {
+      "id": "1392575a-c369-4d3f-ad01-91c12329bfce",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-16T13:32:15.738665+00:00"
+    },
+    {
+      "id": "78310e6a-33c6-44b7-9690-4cba6935ee80",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "google_click",
+      "created_at": "2026-11-16T13:32:52.891713+00:00"
+    },
+    {
+      "id": "14e7031a-04c4-4863-aa78-dafd010328d3",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-16T13:33:14.85273+00:00"
+    },
+    {
+      "id": "46f888a5-6df7-4b66-be70-d2523fd2b313",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-16T13:33:15.348891+00:00"
+    },
+    {
+      "id": "4ec9af5f-2063-4a1e-8897-d88a662dd6ff",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T04:15:55.714655+00:00"
+    },
+    {
+      "id": "04af02ca-f817-4ba0-b58f-73f70d76add7",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T04:15:56.453758+00:00"
+    },
+    {
+      "id": "417c9377-00fb-4151-b0de-d13cbb40cf5b",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T05:26:08.083501+00:00"
+    },
+    {
+      "id": "e0f84224-3432-433d-9665-fc77dfc64321",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T05:33:48.853984+00:00"
+    },
+    {
+      "id": "02b30425-fedc-4378-ac74-f37c1dbe3078",
+      "business_id": null,
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T05:33:48.908089+00:00"
+    },
+    {
+      "id": "c28acfb4-66c8-4699-be64-b685dd5d9ba1",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T05:34:08.068266+00:00"
+    },
+    {
+      "id": "ac83a2b0-abaa-4727-a7fe-0d46ac006145",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T05:34:08.581198+00:00"
+    },
+    {
+      "id": "568b5c18-5290-4247-a9e1-1730bdab3caf",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T06:00:17.458019+00:00"
+    },
+    {
+      "id": "152b5ac6-5832-429a-b9ac-427c826048c4",
+      "business_id": "3b0ee36b-47db-4bec-9516-9ea8ffdcef99",
+      "event_type": "qr_scan",
+      "created_at": "2026-11-17T06:00:17.45787+00:00"
+    }
+  ]
+}
